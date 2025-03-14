@@ -1,5 +1,12 @@
 # Changelog
 
+# 0.2.0 (2025-03-14)
+
+
+### Features
+
+* Initial implementation ([be64975](https://github.com/mortenscheel/skeleton-php/commit/be6497562ece2ad90b22310e1a2f59000370696b))
+
 # 0.1.0 (2024-12-28)
 
 
